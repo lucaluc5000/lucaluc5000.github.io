@@ -4,4 +4,7 @@
 > Wil I learn? Probably  
 > Will I ask ChatGPT for answers? Absolutely  
 
-My friend [RydeDvy](https://github.com/RydeDvy) is also working on learning HTML and is making his own [GitHub IO page](https://github.com/RydeDvy/rydedvy.github.io) which I think will be quite cool at the end (he's a noob at HTML just like me)
+My friend [RydeDvy](https://github.com/RydeDvy) is also working on learning HTML!  
+- Check out his [GitHub IO page](https://github.com/RydeDvy/rydedvy.github.io)!  
+- He's also a noob at HTML, just like me!
+- Hopefully he succeeds and becomes a HTML pro
